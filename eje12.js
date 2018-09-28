@@ -40,6 +40,7 @@ function main(){
 }
 
 function ingresar(){
+    console.log("hola");
     var nombre = prompt("Nombre: ");
     var edad = prompt("Edad: ");
 
